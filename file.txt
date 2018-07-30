@@ -1,2 +1,3 @@
 Added to Git
 Added changes in JIRA-12_feature branch
+Added line in master to conflict
