@@ -2,3 +2,4 @@ Added to Git
 Added changes in JIRA-12_feature branch
 Added changes in JIRA-12_feaure branch for conflict
 Added line in master to conflict
+Added changes to commit in GITHUB
